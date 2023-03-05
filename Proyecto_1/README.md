@@ -12,6 +12,6 @@
 
 Comparar las preferencias musicales de Springfield y Shelbyville.
 
-# Libreriás usadas:
+# Librerías usadas:
 
 pandas
