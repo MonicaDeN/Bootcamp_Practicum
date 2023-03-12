@@ -1,0 +1,4 @@
+#arcgivos csv
+*.csv
+
+.DS_Store
