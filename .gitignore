@@ -1,4 +1,8 @@
 #arcgivos csv
 *.csv
 
+prueba.ipynb
+
 .DS_Store
+
+catboost_info
